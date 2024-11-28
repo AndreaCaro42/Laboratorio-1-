@@ -62,3 +62,36 @@ a:hover{
     text-shadow: 5px 5px 10px; }
 
 table{border-collapse: collapse; width: 100%}td,th{ padding: 6px;} th{background-color:  rgb(234, 200, 235);}
+
+
+/*estilo de principal*/
+.encabezado{
+    text-align: center;
+    border-radius: 10px;
+    background-color: rgb(241, 224, 202);
+    padding: 1rem;
+}
+.menu{
+    text-align: center;
+    border-radius: 10px;
+    background-color: rgb(179, 200, 239);
+    padding: 1rem;
+}
+.contenido{
+    text-align: center;
+    border-radius: 10px;
+    background-color: rgb(255, 217, 222);
+    padding: 1rem;
+}
+.submenu{
+    text-align: center;
+    border-radius: 10px;
+    background-color:rgb(225, 203, 246);
+    padding: 1rem;
+}
+.pie{
+    text-align: center;
+    border-radius: 10px;
+    background-color: rgb(229, 241, 208);
+    padding: 1rem;
+}
