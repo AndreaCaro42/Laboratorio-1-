@@ -6,7 +6,7 @@
 }
 body{
    background-color: rgb(202, 232, 251);
-   min-height: 1000px;
+   min-height: 100vh;
 }
 h1{text-align: center;
     color: rgb(97, 97, 97);
