@@ -31,7 +31,7 @@ h3{
     color: blue;
     margin: 10px auto;
 }
-input[type="text"] {
+input[type="text"], input[type="number"] {
     min-width: 100%;
     min-height: 30px;
     margin-bottom: 5px;
@@ -45,7 +45,7 @@ input[type="text"]:hover {
 a:hover{
     text-shadow: 5px 5px 10px;
 }
-.button{background-color: rgb(186, 43, 96);
+.button{background-color: rgb(242, 174, 199);
     color: white;
     padding: 20px 42 px; 
     border-radius: 10px;
